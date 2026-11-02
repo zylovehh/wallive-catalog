@@ -1,1 +1,64 @@
-{"items":[{"title":"蜘蛛侠","tags":["动漫"],"id":"spider-man","package":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/spider-man.tendies","pinned":true,"downloads":0,"thumbnail":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/spider-man-thumb.jpg","preview":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/spider-man-preview.mp4"},{"downloads":0,"id":"gojo-1-static","thumbnail":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-1-static-thumb.jpg","tags":["动漫"],"pinned":false,"package":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-1-static.tendies","preview":"","title":"五条悟 1"},{"thumbnail":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-3-static-thumb.jpg","package":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-3-static.tendies","preview":"","pinned":true,"downloads":0,"title":"五条悟 3","id":"gojo-3-static","tags":["动漫"]},{"pinned":true,"package":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/homelander-static.tendies","tags":["动漫"],"preview":"","id":"homelander-static","thumbnail":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/homelander-static-thumb.jpg","title":"祖国人","downloads":0},{"title":"五条悟 2","preview":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-2-preview.mp4","package":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-2.tendies","pinned":false,"thumbnail":"https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/gojo-2-thumb.jpg","tags":["动漫"],"id":"gojo-2","downloads":0}]}
+{
+  "items": [
+    {
+      "title": "蜘蛛侠",
+      "tags": [
+        "动漫"
+      ],
+      "id": "spider-man",
+      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/spider-man.tendies",
+      "pinned": true,
+      "downloads": 0,
+      "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/spider-man-thumb.jpg",
+      "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/spider-man-preview.mp4"
+    },
+    {
+      "downloads": 0,
+      "id": "gojo-1-static",
+      "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-1-static-thumb.jpg",
+      "tags": [
+        "动漫"
+      ],
+      "pinned": false,
+      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-1-static.tendies",
+      "preview": "",
+      "title": "五条悟 1"
+    },
+    {
+      "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-3-static-thumb.jpg",
+      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-3-static.tendies",
+      "preview": "",
+      "pinned": true,
+      "downloads": 0,
+      "title": "五条悟 3",
+      "id": "gojo-3-static",
+      "tags": [
+        "动漫"
+      ]
+    },
+    {
+      "pinned": true,
+      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/homelander-static.tendies",
+      "tags": [
+        "动漫"
+      ],
+      "preview": "",
+      "id": "homelander-static",
+      "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/homelander-static-thumb.jpg",
+      "title": "祖国人",
+      "downloads": 0
+    },
+    {
+      "title": "五条悟 2",
+      "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-2-preview.mp4",
+      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-2.tendies",
+      "pinned": false,
+      "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/gojo-2-thumb.jpg",
+      "tags": [
+        "动漫"
+      ],
+      "id": "gojo-2",
+      "downloads": 0
+    }
+  ]
+}
