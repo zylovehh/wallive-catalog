@@ -66,7 +66,7 @@
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/兰叶花开.tendies"
   },
   {
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-thumb.jpg",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mov",
    "tags": [
     "人物"
    ],
@@ -76,7 +76,7 @@
    "id": "lin-chuxue",
    "downloads": 0,
    "title": "林初雪",
-   "preview": ""
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mov"
   },
   {
    "title": "jojo1k",
@@ -152,8 +152,8 @@
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs.tendies",
    "device": "iphone",
    "downloads": 0,
-   "preview": "",
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-thumb.jpg",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mov",
    "pinned": false
   },
   {
@@ -188,10 +188,10 @@
    "tags": [
     "动漫"
    ],
-   "preview": "",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mov",
    "title": "动物城比耶",
    "id": "zootopia-peace",
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-thumb.jpg",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mov",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace.tendies",
    "downloads": 0
   },
@@ -485,10 +485,10 @@
    "tags": [
     "动漫"
    ],
-   "preview": "",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mov",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1.tendies",
    "pinned": false,
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-thumb.jpg",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mov",
    "id": "knight-princess-1",
    "device": "iphone",
    "title": "骑士与公主 1",
