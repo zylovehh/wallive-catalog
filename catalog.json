@@ -66,7 +66,7 @@
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/兰叶花开.tendies"
   },
   {
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mp4",
    "tags": [
     "人物"
    ],
@@ -76,7 +76,7 @@
    "id": "lin-chuxue",
    "downloads": 0,
    "title": "林初雪",
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mov"
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/lin-chuxue-preview.mp4"
   },
   {
    "title": "jojo1k",
@@ -131,7 +131,7 @@
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/wallive-depth.tendies"
   },
   {
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cloud-frog-1-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cloud-frog-1-preview.mp4",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cloud-frog-1.tendies",
    "tags": [
     "动漫"
@@ -140,7 +140,7 @@
    "pinned": false,
    "downloads": 0,
    "device": "iphone",
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cloud-frog-1-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cloud-frog-1-preview.mp4",
    "id": "cloud-frog-1"
   },
   {
@@ -152,8 +152,8 @@
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs.tendies",
    "device": "iphone",
    "downloads": 0,
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mov",
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mp4",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/five-dogs-preview.mp4",
    "pinned": false
   },
   {
@@ -188,10 +188,10 @@
    "tags": [
     "动漫"
    ],
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mp4",
    "title": "动物城比耶",
    "id": "zootopia-peace",
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace-preview.mp4",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/zootopia-peace.tendies",
    "downloads": 0
   },
@@ -228,9 +228,9 @@
    "tags": [
     "动漫"
    ],
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/tom-cat-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/tom-cat-preview.mp4",
    "downloads": 0,
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/tom-cat-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/tom-cat-preview.mp4",
    "device": "iphone",
    "title": "汤姆猫"
   },
@@ -485,22 +485,22 @@
    "tags": [
     "动漫"
    ],
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mp4",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1.tendies",
    "pinned": false,
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-1-preview.mp4",
    "id": "knight-princess-1",
    "device": "iphone",
    "title": "骑士与公主 1",
    "downloads": 0
   },
   {
-   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-preview.mov",
+   "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-preview.mp4",
    "tags": [
     "动漫"
    ],
    "downloads": 0,
-   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-preview.mov",
+   "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess-preview.mp4",
    "id": "knight-princess",
    "device": "iphone",
    "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/knight-princess.tendies",
