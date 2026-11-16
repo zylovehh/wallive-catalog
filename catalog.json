@@ -35,7 +35,7 @@
       ],
       "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cat-3105-deep-thumb.jpg",
       "preview": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/猫咪_3105_深-preview.mov",
-      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/cat-3105-deep.tendies",
+      "package": "https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/cat-3105-deep.tendies",
       "pinned": true,
       "downloads": 0
     },
@@ -470,7 +470,7 @@
     },
     {
       "device": "iphone",
-      "package": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/chen-pingan-1.tendies",
+      "package": "https://raw.githubusercontent.com/zylovehh/wallive-catalog/main/wallpapers/chen-pingan-1.tendies",
       "id": "chen-pingan-1",
       "thumbnail": "https://fastly.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/chen-pingan-1-thumb.jpg",
       "title": "陈平安 1",
