@@ -682,7 +682,7 @@
       "title": "火影卡卡西",
       "preview": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/8F50E834.mp4",
       "thumbnail": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/8F50E834.gif",
-      "device": "ipad",
+      "device": "iphone",
       "pinned": false,
       "downloads": 0,
       "tags": [
@@ -971,7 +971,7 @@
       ],
       "package": "wallpapers/HomebrewChannel.tendies",
       "preview": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/HomebrewChannel.mp4",
-      "device": "ipad",
+      "device": "iphone",
       "thumbnail": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/HomebrewChannel.gif",
       "id": "homebrewchannel"
     },
@@ -1236,7 +1236,7 @@
       "device": "iphone"
     },
     {
-      "device": "ipad",
+      "device": "iphone",
       "thumbnail": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/StonksDown.gif",
       "preview": "https://cdn.jsdelivr.net/gh/zylovehh/wallive-catalog@main/wallpapers/StonksDown.mp4",
       "tags": [
@@ -1253,7 +1253,7 @@
       "downloads": 0,
       "title": "涨起来了 Stonks Up",
       "pinned": false,
-      "device": "ipad",
+      "device": "iphone",
       "tags": [
         "动漫"
       ],
@@ -1503,7 +1503,7 @@
       "id": "nexusbg",
       "pinned": false,
       "downloads": 0,
-      "device": "ipad",
+      "device": "iphone",
       "tags": [
         "其他"
       ]
